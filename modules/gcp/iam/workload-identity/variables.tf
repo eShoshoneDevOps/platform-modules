@@ -26,6 +26,7 @@ variable "roles" {
     "roles/compute.admin",
     "roles/container.admin",
     "roles/iam.serviceAccountAdmin",
+    "roles/iam.serviceAccountUser",
     "roles/iam.workloadIdentityUser",
     "roles/storage.admin",
   ]
